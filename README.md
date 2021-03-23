@@ -1,9 +1,8 @@
 Hello,
 # I'm Deepanshu Pathak👋
-<p><strong>Full Stack Developer</strong></p>
-<p>Mobile applications and Websites both</p>
-<p><img height="15px"  width="15px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/phone.png?raw=true"> : +91 77348-26695</p>
-<p><img height="15px"  width="15px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/email.png?raw=true"> : gauravspatidar@gmail.com</p>
+<p><strong>Web Developer</strong></p>
+<p><img height="15px"  width="15px" src="https://github.com/Deepanshup/Deepanshup/blob/main/phone.png?raw=true"> : +91 8989267180</p>
+<p><img height="15px"  width="15px" src="https://github.com/Deepanshup/Deepanshup/blob/main/email.png?raw=true"> : deepanshu01pathak@gmail.com</p>
 <p><a href="https://docs.google.com/document/d/1gFjLULdRWRtUoGt6MBzxpWTUJBw_kPlSRYKaWyuIP64/edit?usp=sharing"><img height="15px"  width="15px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/download.png?raw=true"> : Download Resume</a></p>
 
 <br>
