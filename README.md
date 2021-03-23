@@ -1,5 +1,5 @@
 Hello,
-# I'm Gaurav Patidar👋
+# I'm Deepanshu Pathak👋
 <p><strong>Full Stack Developer</strong></p>
 <p>Mobile applications and Websites both</p>
 <p><img height="15px"  width="15px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/phone.png?raw=true"> : +91 77348-26695</p>
