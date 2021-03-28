@@ -1,4 +1,7 @@
-![Hey there, I'm Deepanshu. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+<video width="320" height="240" controls>
+  <source src="https://github.com/Deepanshup/Deepanshup/blob/main/Deepanshu%20Pathak.mp4" type="video/mp4">
+  <source src="https://github.com/Deepanshup/Deepanshup/blob/main/Deepanshu%20Pathak.mp4" type="video/ogg">
+</video>
 
 
 ## Technical Skills
