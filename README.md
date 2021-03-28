@@ -1,7 +1,4 @@
-<video width="320" height="240" controls>
-  <source src="https://github.com/Deepanshup/Deepanshup/blob/main/Deepanshu%20Pathak.mp4" type="video/mp4">
-  <source src="https://github.com/Deepanshup/Deepanshup/blob/main/Deepanshu%20Pathak.mp4" type="video/ogg">
-</video>
+<img src="https://github.com/Deepanshup/Deepanshup/blob/main/deepanshu.gif" style="width:1000px">
 
 
 ## Technical Skills
