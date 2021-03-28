@@ -1,4 +1,9 @@
-<img src="https://github.com/Deepanshup/Deepanshup/blob/main/Deepanshu%20pathak.gif">
+<img src="https://github.com/Deepanshup/Deepanshup/blob/main/deepanshu.gif">
+
+### Hi there 👋
+
+I am Deepanshu Pathak from Indore, India who is a Web Developer, currently pursuing Masters Degree in Computer Application, always learning new things, ready for discussions and making new projects .
+
 
 
 ## Technical Skills
@@ -156,16 +161,6 @@
 </ul>
 <br>
 
-
-## Seminar and Workshops
-<ul>
-  <li>Attended workshop on Virtual Reality, conducted by Google at Wittyfeed.</li>
-  <li>Attended 1 day seminar for understanding various tools, conducted by Wittyfeed.</li>
-  <li>Attended workshop on stress management, conducted by Art of Living.</li>
-  <li>Attended Technofest held in IET ,DAVV.</li>
-  <li>Participated in Xpression held in IIPS</li>
-</ul>
-<br>
 
 
 ## Contact Me
