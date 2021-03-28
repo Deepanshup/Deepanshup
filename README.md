@@ -1,4 +1,4 @@
-![Hey there, I'm Deepanshu Pathak. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/Deepanshup/)
+![Hey there, I'm Deepanshu. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
 
 ## Technical Skills
