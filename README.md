@@ -1,4 +1,4 @@
-<img src="https://github.com/Deepanshup/Deepanshup/blob/main/deepanshu.gif" style="width:1000px">
+<img src="https://github.com/Deepanshup/Deepanshup/blob/main/Deepanshu%20pathak.gif">
 
 
 ## Technical Skills
