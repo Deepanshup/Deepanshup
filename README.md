@@ -16,10 +16,6 @@ I am Deepanshu Pathak from Indore, India who is a Software Developer, currently 
         <span><strong>Windows</strong></span><br><br><br>
         <img height="64px" width="64px" src="https://github.com/Deepanshup/Deepanshup/blob/main/windows.png?raw=true">
       </td>
-      <td width="10%" align="center">
-        <span><strong>Linux</strong></span><br><br><br>
-        <img height="64px" width="64px" src="https://github.com/Deepanshup/Deepanshup/blob/main/linux.png?raw=true">
-      </td>
   </tbody>
 </table>
 <br>
@@ -48,12 +44,12 @@ I am Deepanshu Pathak from Indore, India who is a Software Developer, currently 
   <tbody>
     <tr valign="top">
       <td width="10%" align="center">
-        <span><strong>JavaScript</strong></span><br><br><br>
-        <img height="64px"  width="64px" src="https://github.com/Deepanshup/Deepanshup/blob/main/javascript.png?raw=true">
-      </td>
-      <td width="10%" align="center">
         <span><strong>JAVA</strong></span><br><br><br>
         <img height="64px"  width="64px" src="https://github.com/Deepanshup/Deepanshup/blob/main/java.png?raw=true">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>JSP</strong></span><br><br><br>
+        <img height="64px"  width="64px" src="https://github.com/Deepanshup/Deepanshup/blob/main/jsp.png?raw=true">
       </td>
       <td width="10%" align="center">
         <span><strong>C</strong></span><br><br><br>
@@ -104,10 +100,6 @@ I am Deepanshu Pathak from Indore, India who is a Software Developer, currently 
   <tbody>
     <tr valign="top">
       <td width="10%" align="center">
-        <span><strong>X-Code</strong></span><br><br><br>
-        <img height="64px"  width="64px" src="https://github.com/Deepanshup/Deepanshup/blob/main/x-code.png?raw=true">
-      </td>
-      <td width="10%" align="center">
         <span><strong>VS Code</strong></span><br><br><br>
         <img height="64px"  width="64px" src="https://github.com/Deepanshup/Deepanshup/blob/main/vs-code.png?raw=true">
       </td>
@@ -150,14 +142,14 @@ I am Deepanshu Pathak from Indore, India who is a Software Developer, currently 
 
 <span><strong>Professional Qualification :</strong></span><br><br>
 <ul>
-  <li>Pursuing <strong>Master of Computer Application</strong> from June 2019 From International Institute of Professional Studies, Indore.</li>
-  <li>Pursued <strong>Bachelor of Computer Application</strong> July 2016 - May 2019 From International Institute of Professional Studies, Indore with aggregate of <strong>8.85</strong> pointers.</li>
+  <li>Pursuing <strong>Master of Computer Application</strong> from June 2019 from International Institute of Professional Studies, Indore.</li>
+  <li>Pursued <strong>Bachelor of Computer Application</strong> July 2016 - May 2019 from International Institute of Professional Studies, Indore with aggregate of <strong>8.85</strong> pointers.</li>
 </ul>
 <br>
 <span><strong>Educational Qualification :</strong></span><br><br>
 <ul>
-  <li><strong>	Senior School Certificate</strong> from Central Board of Secondary Education Bhopal M.P. in year 2016 with<strong>83.5%</strong>.</li>
-  <li><strong>	High School Certificate </strong> from Board of Secondary Education Bhopal M.P. in year 2014 with <strong>87.5%</strong>.</li>
+  <li><strong>Senior School Certificate</strong> from Central Board of Secondary Education Bhopal M.P. in year 2016 with<strong> 83.5%</strong>.</li>
+  <li><strong>High School Certificate </strong> from Board of Secondary Education Bhopal M.P. in year 2014 with <strong>87.5%</strong>.</li>
 </ul>
 <br>
 
