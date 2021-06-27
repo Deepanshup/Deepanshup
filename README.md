@@ -150,14 +150,14 @@ I am Deepanshu Pathak from Indore, India who is a Software Developer, currently 
 
 <span><strong>Professional Qualification :</strong></span><br><br>
 <ul>
-  <li><strong>BCA (CS)</strong> July 2016 - May 2019 From International Institute of Professional Studies, Indore with aggregate of <strong>8.85</strong> pointers.</li>
-  <li>Pursuing <strong>MCA (CS)</strong> June 2019 From International Institute of Professional Studies, Indore.</li>
+  <li>Pursuing <strong>Master of Computer Application</strong> from June 2019 From International Institute of Professional Studies, Indore.</li>
+  <li>Pursued <strong>Bachelor of Computer Application</strong> July 2016 - May 2019 From International Institute of Professional Studies, Indore with aggregate of <strong>8.85</strong> pointers.</li>
 </ul>
 <br>
 <span><strong>Educational Qualification :</strong></span><br><br>
 <ul>
-  <li><strong>12th (CBSE)</strong> from Shri Agrasen Vidyalaya, Indore with <strong>83.5%</strong>.</li>
-  <li><strong>10th (MPBSE)</strong> from Shri Agrasen Vidyalaya, Indore with <strong>87.5%</strong>.</li>
+  <li><strong>	Senior School Certificate</strong> from Central Board of Secondary Education Bhopal M.P. in year 2016 with<strong>83.5%</strong>.</li>
+  <li><strong>	High School Certificate </strong> from Board of Secondary Education Bhopal M.P. in year 2014 with <strong>87.5%</strong>.</li>
 </ul>
 <br>
 
