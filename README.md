@@ -1,8 +1,8 @@
-<img src="https://github.com/Deepanshup/Deepanshup/blob/main/deepanshu.gif">
+
 
 ### Hi there 👋
 
-I am Deepanshu Pathak from Indore, India who is a Web Developer, currently pursuing Masters Degree in Computer Application, always learning new things, ready for discussions and making new projects .
+I am Deepanshu Pathak from Indore, India who is a Software Developer, currently pursuing Masters Degree in Computer Application, always learning new things, ready for discussions and making new projects .
 
 
 
